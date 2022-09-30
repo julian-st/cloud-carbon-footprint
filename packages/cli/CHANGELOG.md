@@ -1,5 +1,15 @@
 # @cloud-carbon-footprint/cli
 
+## 1.7.1
+
+### Patch Changes
+
+- 899e06e9: updates cli on prem validation - please refer to [this commit](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/commit/fd4843c3954d7f28723f2ebeffef7f3bb90e4f0b)
+- Updated dependencies [ab88688e]
+- Updated dependencies [225e44c5]
+  - @cloud-carbon-footprint/app@0.8.0
+  - @cloud-carbon-footprint/common@1.8.0
+
 ## 1.7.0
 
 ### Minor Changes
